@@ -1,7 +1,6 @@
 require 'uri'
 require 'net/https'
 require 'json'
-require 'pry'
 require_relative 'tradier_api'
 
 time = Time.now
